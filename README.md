@@ -8,9 +8,9 @@
 <a href="https://www.buymeacoffee.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/buymeacoffee-logo.png"></a>
 </p>
 
-<h2 align='center'>Hey there!
-<img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="30px"/>
-</h2>
+<h1 align='center'>Hey there!
+<img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="40px"/>
+</h1>
 
 <!-- ## Hey there! <img src="assets/wave.gif" height="30px"/> -->
 
