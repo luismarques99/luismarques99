@@ -1,15 +1,15 @@
-<img src="assets/MyBannerLight.png"/>
+<img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/MyBannerLight.png"/>
 <p></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/luismarques99/"><img height="30" src="assets/linkedin-logo.png"></a>
+<a href="https://www.linkedin.com/in/luismarques99/"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
 &nbsp;&nbsp;
-<a href="https://gitlab.com/LuisMarques99"><img height="30" src="assets/gitlab-logo.png"></a>
+<a href="https://gitlab.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
 &nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/LuisMarques99"><img height="30" src="assets/buymeacoffee-logo.png"></a>
+<a href="https://www.buymeacoffee.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/buymeacoffee-logo.png"></a>
 </p>
 
 <h2 align='center'>Hey there!
-<img src="assets/wave.gif" height="30px"/>
+<img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="30px"/>
 </h2>
 
 <!-- ## Hey there! <img src="assets/wave.gif" height="30px"/> -->
@@ -32,8 +32,6 @@ My name is Luís Marques and I'm a student of Computer Engineering. I'm from Bra
 ---
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMarques99&show_icons=true&hide_border=true&theme=buefy" />
-
-&nbsp;
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarques99&layout=compact&hide_border=true&theme=buefy" />
 
