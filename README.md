@@ -31,7 +31,7 @@ My name is Luís Marques and I'm a student of Computer Engineering. I'm from Bra
 
 ---
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMarques99&show_icons=true&hide_border=true&theme=buefy" />
+<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMarques99&show_icons=true&hide_border=true&theme=buefy" />
 
-<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarques99&layout=compact&hide_border=true&theme=buefy" />
+<img align="center" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarques99&layout=compact&hide_border=true&theme=buefy" />
 
