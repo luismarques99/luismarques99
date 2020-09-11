@@ -20,7 +20,7 @@ My name is Luís Marques and I'm a student of Computer Engineering. I'm from Bra
 <!-- -  -->
 - 🌱 I’m currently learning [`LaTeX`](https://www.latex-project.org/), Machine Learning w/ [`Python`](https://www.python.org/), API modelation and [`Spring`](https://spring.io/) framework.
 <!-- -  -->
-- 👍 I like terminals, JetBrains IDE's and logic problems.
+- 👍 I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
