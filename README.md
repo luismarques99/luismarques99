@@ -5,7 +5,7 @@
 &nbsp;&nbsp;
 <a href="https://gitlab.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
 &nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/buymeacoffee-logo.png"></a>
+<a href="https://www.buymeacoffee.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC_Logo-Black.png"></a>
 </p>
 
 <h1 align='center'>Hey there!
