@@ -27,7 +27,7 @@ My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
----
+<!-- --- -->
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMarques99&show_icons=true&hide_border=true&theme=material-palenight" />
 
