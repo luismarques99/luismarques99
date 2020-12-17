@@ -14,7 +14,7 @@
 
 <!-- ## Hey there! <img src="assets/wave.gif" height="30px"/> -->
 
-My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree from [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
+My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 
 - 🔭 I’m currently working at [**Accenture**](https://www.accenture.com/) as a New Joiner.
 - 🌱 I’m currently learning/studying Data Structures and Algorithms; API's modelation with [`Spring`](https://spring.io/) framework.
