@@ -4,8 +4,10 @@
 <a href="https://www.linkedin.com/in/luismarques99/"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
 &nbsp;&nbsp;
 <a href="https://gitlab.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
-&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC_Logo-White.png"></a>
+</p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC/bmc-button.png"></a>
 </p>
 
 <h1 align='center'>Hey there!
