@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/MyBannerDark.png"/>
 <p></p>
 <p align="center">
-<a href="https://www.linkedin.com/in/luismarques99/"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo-white.png"></a>
+<a href="https://www.linkedin.com/in/luismarques99/"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
 &nbsp;&nbsp;
 <a href="https://gitlab.com/LuisMarques99"><img height="30" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
 &nbsp;&nbsp;
