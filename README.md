@@ -9,7 +9,7 @@
 </p> -->
 
 <h1 align='center'>Hey there!
-<img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="25px"/>
+<img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="30px"/>
 </h1>
 
 <!-- ## Hey there! <img src="assets/wave.gif" height="30px"/> -->
