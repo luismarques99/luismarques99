@@ -9,11 +9,11 @@ My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer 
 :books:
 :thumbsup:
 :mailbox: -->
-- 💼 Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
-- 🔭 Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
-- 📚 Studying Data Structures and Algorithms.
-- 👍 I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
-- 📫 How to reach me: luisserafim99@gmail.com
+- :briefcase: Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
+- :telescope: Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
+- :books: Studying Data Structures and Algorithms.
+- :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
+- :mailbox: How to reach me: luisserafim99@gmail.com
 
 <p></p>
 
