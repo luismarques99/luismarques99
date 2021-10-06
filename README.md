@@ -4,11 +4,11 @@
 
 My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 
-- :briefcase:  Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
-- :telescope:  Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
-- :books:  Studying Data Structures and Algorithms.
-- :thumbsup:  I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
-- :mailbox:  How to reach me: luisserafim99@gmail.com
+- :briefcase:&nbsp;Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
+- :telescope:&nbsp;Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
+- :books:&nbsp;Studying Data Structures and Algorithms.
+- :thumbsup:&nbsp;I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
+- :mailbox:&nbsp;How to reach me: luisserafim99@gmail.com
 
 <div align="center">
   <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMarques99&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
