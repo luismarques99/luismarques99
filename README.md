@@ -5,11 +5,15 @@
 <p>My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).</p>
 
 <div>
-    <p>:briefcase:&nbsp;Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.</p>
-    <p>:telescope:&nbsp;Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).</p>
-    <p>:books:&nbsp;Studying Data Structures and Algorithms.</p>
-    <p>:thumbsup:&nbsp;I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.</p>
-    <p>:mailbox:&nbsp;How to reach me: luisserafim99@gmail.com</p>
+    :briefcase:&nbsp;Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
+    <br/>
+    :telescope:&nbsp;Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
+    <br/>
+    :books:&nbsp;Studying Data Structures and Algorithms.
+    <br/>
+    :thumbsup:&nbsp;I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
+    <br/>
+    :mailbox:&nbsp;How to reach me: luisserafim99@gmail.com
 </div>
 
 <div align="center">
@@ -19,7 +23,7 @@
 
 <div align="right">
     <a href="https://www.linkedin.com/in/luismarques99/"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
-    &ensp;
+    &emsp;
     <a href="https://gitlab.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
     &emsp;
     <a href="https://www.buymeacoffee.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC/bmc-button.png"></a>
