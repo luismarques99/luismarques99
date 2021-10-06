@@ -27,8 +27,8 @@ My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer 
 
 <div align="right">
     <a href="https://www.linkedin.com/in/luismarques99/"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
-    &ensp;
+    &emsp;
     <a href="https://gitlab.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
-    &ensp;
+    &emsp;
     <a href="https://www.buymeacoffee.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC/bmc-button.png"></a>
 </div>
