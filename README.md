@@ -17,9 +17,14 @@ My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer 
     <img height="180em" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarques99&layout=compact&hide_border=true&theme=material-palenight"/>
 </div>
 
+<p></p>
+
 <!-- <div>
     ![Snake animation](https://github.com/LuisMarques99/LuisMarques99/blob/output/github-contribution-grid-snake.svg)
 </div> -->
+
+<p></p>
+
 <div align="right">
     <a href="https://www.linkedin.com/in/luismarques99/"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
     &ensp;
