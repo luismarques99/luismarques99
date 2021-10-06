@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="30px"/>
 </h1>
 
-<p>My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).</p>
+My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 
 <!-- :briefcase:
 :telescope:
@@ -27,8 +27,8 @@
 </div> -->
 <div align="right">
     <a href="https://www.linkedin.com/in/luismarques99/"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
-    &emsp;
+    &ensp;
     <a href="https://gitlab.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
-    &emsp;
+    &ensp;
     <a href="https://www.buymeacoffee.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC/bmc-button.png"></a>
 </div>
