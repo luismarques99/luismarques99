@@ -4,17 +4,13 @@
 
 <p>My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).</p>
 
-<div>
-    :briefcase:&nbsp;Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
-    <br/>
-    :telescope:&nbsp;Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
-    <br/>
-    :books:&nbsp;Studying Data Structures and Algorithms.
-    <br/>
-    :thumbsup:&nbsp;I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
-    <br/>
-    :mailbox:&nbsp;How to reach me: luisserafim99@gmail.com
-</div>
+- :briefcase: Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
+- :telescope: Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
+- :books: Studying Data Structures and Algorithms.
+- :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
+- :mailbox: How to reach me: luisserafim99@gmail.com
+
+<p></p>
 
 <div align="center">
     <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMarques99&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
