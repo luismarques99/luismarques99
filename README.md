@@ -4,11 +4,6 @@
 
 My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 
-<!-- :briefcase:
-:telescope:
-:books:
-:thumbsup:
-:mailbox: -->
 - :briefcase: Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
 - :telescope: Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 - :books: Studying Data Structures and Algorithms.
