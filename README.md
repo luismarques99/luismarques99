@@ -19,9 +19,7 @@ My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer 
 
 <p></p>
 
-<div>
-    ![Snake animation](https://github.com/LuisMarques99/LuisMarques99/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/LuisMarques99/LuisMarques99/blob/output/github-contribution-grid-snake.svg)
 
 <p></p>
 
