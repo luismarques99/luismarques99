@@ -4,11 +4,11 @@
 
 My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 
-- :briefcase: Working at [**Accenture**](https://www.accenture.com/) as a Junior SAP ABAP developer.
+- :briefcase: Working at [**Volkswagen Financial Services**](https://www.vwfs.com/) as a DevOps Engineer.
 - :telescope: Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
-- :books: Studying Data Structures and Algorithms.
+- :books: Studying Kubernetes, Docker and CI/CD.
 - :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
-- :mailbox: How to reach me: luisserafim99@gmail.com
+- :mailbox: How to reach me: luisserafim99@hotmail.com
 
 <p></p>
 
