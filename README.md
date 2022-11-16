@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="30px"/>
 </h1>
 
-My name is Luís Marques, I'm from Braga (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
+My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 
-- :briefcase: Working at [**Volkswagen Financial Services**](https://www.vwfs.com/) as a DevOps Engineer.
+- :briefcase: Working at [**Adentis Portugal**](https://www.adentis.pt/) as a Back End Engineer.
 - :telescope: Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
-- :books: Studying Kubernetes, Docker and CI/CD.
+- :books: Studying Microservices and Blockchain.
 - :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
 - :mailbox: How to reach me: luisserafim99@hotmail.com
 
