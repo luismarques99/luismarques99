@@ -4,7 +4,7 @@
 
 My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 
-- :briefcase: Working as a Back End Engineer at [**Adentis Portugal**](https://www.adentis.pt/), outsourced to [**Sensormatic by Johnson Controls**](https://www.sensormatic.com/) and working on an [**Inditex**](https://www.inditex.com/) project. Feel free to follow my working account projects: [`@luismarques-inditex`](https://github.com/luismarques-inditex).
+- :briefcase: Working as a Back End Engineer at [**Adentis Portugal**](https://www.adentis.pt/), outsourced to [**Sensormatic by Johnson Controls**](https://www.sensormatic.com/) and working on an [**Inditex**](https://www.inditex.com/) project. Feel free to follow my working account [`@luismarques-inditex`](https://github.com/luismarques-inditex).
 - :telescope: Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
 - :books: Studying Microservices and Blockchain.
 - :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
