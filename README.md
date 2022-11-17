@@ -9,6 +9,7 @@ My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer 
 - :books: Studying Microservices and Blockchain.
 - :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
 - :mailbox: How to reach me: luisserafim99@hotmail.com
+- :zap: Fun fact: I enjoy solving a Rubik's cube.
 
 <p></p>
 
