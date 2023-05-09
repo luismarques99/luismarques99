@@ -23,9 +23,10 @@ My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer 
 ![Snake animation](https://github.com/LuisMarques99/LuisMarques99/blob/output/github-contribution-grid-snake.svg)
 
 <p></p>
-
 <div align="right">
-    <a href="https://www.linkedin.com/in/luismarques99/"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
+    <a href="https://exercism.org/profiles/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/exercism-logo.png"></a>
+    &emsp;
+    <a href="https://www.linkedin.com/in/luismarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
     &emsp;
     <a href="https://gitlab.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
     &emsp;
