@@ -1,5 +1,5 @@
 <h1 align='center'>Hey there!
-<img src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/wave.gif" height="30px"/>
+<img src="https://raw.githubusercontent.com/luismarques99/luismarques99/master/assets/wave.gif" height="30px"/>
 </h1>
 
 My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
@@ -20,15 +20,15 @@ My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer 
 
 <p></p>
 
-![Snake animation](https://github.com/LuisMarques99/LuisMarques99/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luismarques99/luismarques99/blob/output/github-contribution-grid-snake.svg)
 
 <p></p>
 <div align="right">
-    <a href="https://exercism.org/profiles/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/exercism-logo.png"></a>
+    <a href="https://exercism.org/profiles/luismarques99"><img height="50" src="https://raw.githubusercontent.com/luismarques99/luismarques99/master/assets/exercism-logo.png"></a>
     &emsp;
-    <a href="https://www.linkedin.com/in/luismarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/linkedin-logo.png"></a>
+    <a href="https://www.linkedin.com/in/luismarques99"><img height="50" src="https://raw.githubusercontent.com/luismarques99/luismarques99/master/assets/linkedin-logo.png"></a>
     &emsp;
-    <a href="https://gitlab.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/gitlab-logo.png"></a>
+    <a href="https://gitlab.com/luismarques99"><img height="50" src="https://raw.githubusercontent.com/luismarques99/luismarques99/master/assets/gitlab-logo.png"></a>
     &emsp;
-    <a href="https://www.buymeacoffee.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/LuisMarques99/LuisMarques99/master/assets/BMC/bmc-button.png"></a>
+    <a href="https://www.buymeacoffee.com/LuisMarques99"><img height="50" src="https://raw.githubusercontent.com/luismarques99/luismarques99/master/assets/BMC/bmc-button.png"></a>
 </div>
