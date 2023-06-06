@@ -14,8 +14,8 @@ My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer 
 <p></p>
 
 <div align="center">
-    <img height="170em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuisMarques99&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
-    <img height="170em" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarques99&layout=compact&hide_border=true&theme=material-palenight"/>
+    <img height="170em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luismarques99&show_icons=true&hide_border=true&count_private=true&theme=material-palenight"/>
+    <img height="170em" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismarques99&layout=compact&hide_border=true&theme=material-palenight"/>
 </div>
 
 <p></p>
