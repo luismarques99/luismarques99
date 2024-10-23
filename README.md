@@ -2,11 +2,11 @@
 <img src="https://raw.githubusercontent.com/luismarques99/luismarques99/master/assets/wave.gif" height="30px"/>
 </h1>
 
-My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer with a Licenciate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
+My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer with a Licentiate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/). I started a Master's Degree in Computer Engineering at the same university but didn't finish my thesis.
 
-- :briefcase: Working as a Back End Engineer at [**Adentis Portugal**](https://www.adentis.pt/), outsourced to [**Sensormatic by Johnson Controls**](https://www.sensormatic.com/) and working on an [**Inditex**](https://www.inditex.com/) project.
-- :telescope: Currently pursuing a Master's Degree in Computer Engineering at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/).
-- :books: Studying Microservices and Blockchain.
+- :briefcase: Working as a Software Engineer at [**Feedzai**](https://www.feedzai.com).
+- :telescope: My focus is to master Microservices architecture.
+- :books: Integrating Kotlin into my Java knowledge; investigating NLP and other AI subjects.
 - :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
 - :mailbox: How to reach me: luisserafim99@hotmail.com
 - :zap: Fun fact: I enjoy solving a Rubik's cube.
