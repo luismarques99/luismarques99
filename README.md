@@ -6,7 +6,8 @@ My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer 
 
 - :briefcase: Working as a Software Engineer at [**Feedzai**](https://www.feedzai.com).
 - :telescope: My focus is to master Microservices architecture.
-- :books: Integrating Kotlin into my Java knowledge; investigating NLP and other AI subjects.
+- :books: Learning C++.
+- :rocket: Working on a sport kits web app; developing a third person video game.
 - :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
 - :mailbox: How to reach me: luisserafim99@hotmail.com
 - :zap: Fun fact: I enjoy solving a Rubik's cube.
