@@ -2,15 +2,16 @@
 <img src="https://raw.githubusercontent.com/luismarques99/luismarques99/master/assets/wave.gif" height="30px"/>
 </h1>
 
-My name is Luís Marques, I'm from Porto (Portugal) and I'm a Computer Engineer with a Licentiate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/). I started a Master's Degree in Computer Engineering at the same university but didn't finish my thesis.
+My name is Luís Marques, I live in Praia da Vitória (Ilha Terceira, Açores) and I'm a Computer Engineer with a Licentiate Degree at [_Escola Superior de Tecnologia e Gestão - P.Porto_](https://www.estg.ipp.pt/). I started a Master's Degree in Computer Engineering at the same university but didn't finish my thesis.
 
-- :briefcase: Working as a Software Engineer at [**Feedzai**](https://www.feedzai.com).
+- :briefcase: Working as a Software Engineer at [**Blip.pt**](https://www.blip.pt) to [**FanDuel**](https://fanduel.com).
 - :telescope: My focus is to master Microservices architecture.
 - :books: Learning C++.
-- :rocket: Working on a sport kits web app; developing a third person video game.
+- :rocket: Working on enhancing my home server and developing video games.
 - :thumbsup: I like terminals, [JetBrains](https://www.jetbrains.com/) IDE's and logic problems.
 - :mailbox: How to reach me: luisserafim99@hotmail.com
 - :zap: Fun fact: I enjoy solving a Rubik's cube.
+- :space_invader: Free time: Video games and movies or tv shows.
 
 <p></p>
 
